@@ -12,10 +12,15 @@ this clipboard_translator.pyw with a keyboard shortcut
 ###
 4) Copy the 4 lines of code below into clipboard_translator.ahk
 
+
 ; Clipboard_Translator # Script Name
+
 ^!t:: # <ctrl + alt + t > keystroke combination
+
 Run clipboard_translator.pyw, C:\Python\keyboardScripts\ # directory of .pyw application
+
 return
+
 
 ###
 5) Save and double-click the .ahk file to make sure it's running
