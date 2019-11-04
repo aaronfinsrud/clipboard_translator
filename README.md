@@ -13,10 +13,13 @@ this clipboard_translator.pyw with a keyboard shortcut
 4) Copy the 4 lines of code below into clipboard_translator.ahk
 
 
-; Clipboard_Translator\n
-^!t:: \n
-Run clipboard_translator.pyw, C:\Python\keyboardScripts\ \n
-return\n
+; Clipboard_Translator
+
+^!t:: 
+
+Run clipboard_translator.pyw, C:\Python\keyboardScripts\
+
+return
 
 
 ###
