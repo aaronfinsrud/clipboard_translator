@@ -1,3 +1,9 @@
+Dependencies:
+1. pandas
+2. googletrans 
+3. pyperclip
+4. python 3.8
+
 Windows users can download autohotkey to launch
 this clipboard_translator.pyw with a keyboard shortcut
 ###
