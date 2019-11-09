@@ -1,4 +1,4 @@
-Dependencies:
+## Dependencies:
 1. pandas
 2. googletrans 
 3. pyperclip
