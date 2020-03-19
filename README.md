@@ -13,10 +13,10 @@ this clipboard_translator.pyw with a keyboard shortcut
 2) Download and install autohotkey:
      https://www.autohotkey.com/docs/Tutorial.htm#s11
 ###
-3) Open C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
-   and right-click to create clipboard_translator.ahk file
+3) Go to your desktop and right-click to create an .ahk file named clipboard_translator.ahk file 
+     (right-click -> New -> AutoHotKey Script)
 ###
-4) Copy the 4 lines of code below into clipboard_translator.ahk
+4) Open the .ahk using notepad and copy the 4 lines of code below into clipboard_translator.ahk
 
 
        ; Clipboard_Translator
@@ -31,9 +31,11 @@ this clipboard_translator.pyw with a keyboard shortcut
 ###
 5) Save and double-click the .ahk file to make sure it's running
 ###
-6) Select and copy the text you want to translate
+6) Move the .ahk file to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 
 ###
-7) Press < ctrl + alt + t > to translate the copied text
+7) Select and copy the text you want to translate
 ###
-8) Press < ctrl + v > to paste translated text from clipboard!
+8) Press < ctrl + alt + t > to translate the copied text
+###
+9) Press < ctrl + v > to paste translated text from clipboard!
 ###
