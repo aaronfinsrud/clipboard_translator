@@ -16,7 +16,7 @@ this clipboard_translator.pyw with a keyboard shortcut
 3) Go to your desktop and right-click to create an .ahk file named clipboard_translator.ahk file 
      (right-click -> New -> AutoHotKey Script)
 ###
-4) Open the .ahk using notepad and copy the 4 lines of code below into clipboard_translator.ahk
+4) Open the .ahk using notepad (right-click -> Edit Script) and replace the existing code with the 4 lines of code below:
 
 
        ; Clipboard_Translator
